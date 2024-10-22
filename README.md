@@ -1,10 +1,10 @@
-Common sports injuries and how to treat them
+# Common sports injuries and how to treat them
 Sports injuries are inevitable, but being prepared with knowledge can mitigate their impact. With this guide, athletes, coaches, and enthusiasts can understand common injuries and how to handle them effectively. Let's play smart and stay safe!
 
-View the Demo
+# View the Demo
 Start by familiarizing yourself with our sports injury and treatment guide.
 
-Get started!
+# Get started!
 Access the Guide: Head to the Sports Injury Repository. Click the green "Code" button, then "Download ZIP" to your local computer.
 
 Organize Your Files: Locate this folder in your downloads and move it to a secure place where you can manage your files and other assets like images, PDFs, etc.
