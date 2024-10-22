@@ -5,22 +5,21 @@ Sports injuries are inevitable, but being prepared with knowledge can mitigate t
 Start by familiarizing yourself with our sports injury and treatment [guide](https://cmarsalko.github.io/Sports_Injuries_and_Treatment/
 )
 # Get started!
-Access the Guide: Head to the Sports Injury Repository. Click the green "Code" button, then "Download ZIP" to your local computer.
+**Access the Guide**: Visit the Sports Injury Repository. Click the green "Code" button and select "Download ZIP" to save it to your computer.
 
-Organize Your Files: Locate this folder in your downloads and move it to a secure place where you can manage your files and other assets like images, PDFs, etc.
+**Organize Your Files**: Find the downloaded folder in your system and move it to a secure location where you can easily manage your files, such as images, PDFs, and other assets.
 
-Open a Text Editor: Download and/or open a text editor like Notepad++ or VSCode.
+**Open a Text Editor**: Install and/or open a text editor like Notepad++ or VSCode to work with your files.
 
-Review the Content: Use the text editor to open the index.html documents and style.css from your project folder.
+**Review the Content**: Open the `index.html` and `style.css` files from your project folder in the text editor to review the content.
 
-Customization: Start working with code by reading through the index.html where you'll find instructions on how to build your own webtext!
+**Start Customizing**: Begin editing by going through the `index.html` file, where you’ll find instructions for building your own webtext.
 
-Publish: Once you've modified and added your files to your project file, you'll want to publish it to the web. GitHub provides a good solution for "free." Create a GitHub account, then create a new repository for this webtext.
+**Publish Your Work**: Once you've made your changes, it’s time to publish. GitHub offers a free way to host your project. Sign up for a GitHub account and create a new repository for your webtext.
 
-Upload Your Files: Click "uploading an existing file" and "commit" your file changes to this repository. Remember, you'll need ALL of your assets to make your webtext function properly.
+**Upload Your Files**: Click "upload an existing file" and "commit" your changes to the repository. Ensure you upload all necessary assets for your webtext to function properly.
 
-Finalize the Setup: Go to your repository "**settings**." Scroll down to "**Pages**" and change the setting from "**none**" to "**main**" branch. Hit "**Save**". This will provide you with a published GitHub URL.
+**Finalize the Setup**: In your repository settings, scroll to "Pages" and switch the source from "none" to the "main" branch. Save your changes to get a live GitHub URL.
 
-Test Your URL: Test the URL in a browser. Magic, no? Actually, it's computer science.
+**Test Your Site**: Try the URL in a browser, and watch your webtext come to life. It’s computer science magic!
 
-Check out our other helpful resources for managing and preventing sports injuries HERE
