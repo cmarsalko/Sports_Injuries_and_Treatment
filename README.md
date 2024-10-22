@@ -2,7 +2,7 @@
 Sports injuries are inevitable, but being prepared with knowledge can mitigate their impact. With this guide, athletes, coaches, and enthusiasts can understand common injuries and how to handle them effectively. Let's play smart and stay safe!
 
 # View the Demo
-Start by familiarizing yourself with our sports injury and treatment [guide](https://cmarsalko.github.io/.
+Start by familiarizing yourself with our sports injury and treatment [guide](https://cmarsalko.github.io/Sports_Injuries_and_Treatment/
 )
 # Get started!
 Access the Guide: Head to the Sports Injury Repository. Click the green "Code" button, then "Download ZIP" to your local computer.
